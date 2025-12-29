@@ -1,0 +1,30 @@
+{
+  "name": "mohammad-faiz-portfolio",
+  "version": "1.0.0",
+  "description": "Mohammad Faiz - Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - no start script required'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript",
+    "bootstrap"
+  ],
+  "author": "Mohammad Faiz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faizkh786/portfolio-website"
+  },
+  "homepage": "https://mohammad-faiz-portfolio.vercel.app"
+}
+
+
+
+
+
