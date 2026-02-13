@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://mohammad-faiz-portfolio.vercel.app](https://mohammad-faiz-portfolio.vercel.app)
+Visit the live website: https://faiz-khan2309.netlify.app/
 
 ## 📋 Features
 
